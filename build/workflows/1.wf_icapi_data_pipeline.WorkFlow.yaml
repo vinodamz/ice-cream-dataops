@@ -1,0 +1,4 @@
+externalId: wf_icapi_data_pipeline
+description: 'Orchestrates the full ice-cream API data pipeline: builds the asset
+  hierarchy, contextualises time-series to assets, extracts datapoints from the API,
+  and computes OEE time-series for downstream analytics.'
